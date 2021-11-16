@@ -1,7 +1,7 @@
 # GetHashSHA256
 Custom connector for Microsoft Power BI. Creates hash SHA256 for the text.
 
-Пользовательский коннектор для Microsoft Power BI. Создает хэш для текстовой строки по алгоритму SHA 256/
+Пользовательский коннектор для Microsoft Power BI. Создает хэш для текстовой строки по алгоритму SHA 256.
 Как подключить коннектор:
 Скачайте файл: https://github.com/PooHkrd/GetHMACwithCreds/blob/master/GetHashSHA256.mez
 
